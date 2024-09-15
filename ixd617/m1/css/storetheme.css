@@ -6,6 +6,16 @@ body {
 	background-color: var(--color-offwhite);
 	padding-bottom: 4em;	
 }
+footer {
+            background-color: #ffffff;
+            padding: 20px;
+            text-align: center;
+            font-size: 14px;
+            color: #000;
+            position: fixed;
+            bottom: 0;
+            width: 100%;
+        }
 
 
 
